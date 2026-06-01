@@ -2,7 +2,7 @@
 
 A lightweight C program designed to log, monitor, and analyze CPU core temperatures. This application categorizes real-time temperature logs into specific thermal states, calculates essential statistical metrics, and provides a final system health summary.
 
-Developed by Team **AMBACODING** for the Informatics (SAS) High School Curriculum.
+Developed by Team **kata Arkan namanya AMBACODING 100% Halal jadi kita iyain ajah** for the Informatics (SAS) High School Curriculum.
 
 ---
 
@@ -42,13 +42,13 @@ gcc -o temp_monitor main.c
 ---
 
 ## 📋 Project Identity
-* **Team Name:** AMBACODING 100% Halal
+* **Team Name:** kata Arkan namanya AMBACODING 100% Halal jadi kita iyain ajah
 * **Members:** 
   1. Azaria Arkana Mulya
   2. Muhammad Wildan Muzakki
   3. Ahmad Nejat Rahmansyah
 * **Class:** X-A/B
-* **Date:** June 1, 2026 (GMT+7)
+* **Release Date:** June 1, 2026 20:20 (GMT+7)
 * **Version:** 1.1
 * **Release Notes:** Added maximum/minimum tracking, overheat log, normal log, and below-normal log features.
 * **Subject:** Informatics (SAS)
