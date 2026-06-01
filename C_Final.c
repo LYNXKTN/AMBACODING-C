@@ -1,7 +1,7 @@
 /* ===================================================================
 SAS INFORMATIKA
 -----------------------------------------------------------------
-Nama Tim    : kata arkan namanya AMBACODING 100% Halal jadi kita iyain ajah
+Nama Tim    : kata Arkan namanya AMBACODING 100% Halal jadi kita iyain ajah
 Anggota     : 1. Azaria Arkana Mulya, 2. Muhammad Wildan Muzakki, 3. Ahmad Nejat Rahmansyah
 Kelas       : X-A/B
 Pelajaran   : Informatika (SAS)
