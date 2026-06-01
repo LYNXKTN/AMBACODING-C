@@ -28,7 +28,7 @@ int main() {
         total = total + suhu; 
 
         if (suhu >= 85.0) {
-            printf("   Bahaya Overheat.",); 
+            printf("   Bahaya Overheat."); 
         } else if (suhu >= 40.0 && suhu < 85.0) {
             printf("   Suhu dalam batas normal.\n");
         } else {
