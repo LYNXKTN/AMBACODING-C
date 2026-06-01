@@ -12,7 +12,7 @@ Developed by Team **kata Arkan namanya AMBACODING 100% Halal jadi kita iyain aja
   * 🔴 **Overheat Danger** (`≥ 85.0 °C`)
   * 🟢 **Normal Threshold** (`40.0 °C` to `< 85.0 °C`)
   * 🔵 **Temperature Too Low** (`< 40.0 °C`)
-* **Dynamic Peak Value Tracking (Added 1.1):** Identifies the exact maximum and minimum temperatures recorded during the session without using hardcoded or magic numbers.
+* **Dynamic Peak Value Tracking (Added 1.1):** Identifies the exact maximum and minimum temperatures recorded during the session.
 * **Aggregated Thermal Report (Added 1.1):** Generates a comprehensive status summary calculating total counts for each thermal state.
 * **Safe Input Guard:** Includes defensive validation logic to catch invalid data points or null checks before loop initialization.
 
@@ -42,7 +42,7 @@ gcc -o temp_monitor main.c
 ---
 
 ## 📋 Project Identity
-* **Team Name:** kata Arkan namanya AMBACODING 100% Halal jadi kita iyain ajah
+* **Team Name:** kata Arkan namanya AMBACODING 100% Halal jadi kita iyain ajah.
 * **Members:** 
   1. Azaria Arkana Mulya
   2. Muhammad Wildan Muzakki
@@ -51,4 +51,4 @@ gcc -o temp_monitor main.c
 * **Release Date:** June 1, 2026 20:20 (GMT+7)
 * **Version:** 1.1
 * **Release Notes:** Added maximum/minimum tracking, overheat log, normal log, and below-normal log features.
-* **Subject:** Informatics (SAS)
+* **Subject:** Informatics (End of Year Summative Project)
