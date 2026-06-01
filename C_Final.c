@@ -15,8 +15,8 @@ int main() {
     float rata_rata;
     int i = 1;               
 
-    printf("=== SISTEM MONITORING SUHU HARDWARE===\n");
-    printf("Masukkan berapa kali pengecekan suhu: ");
+    printf("=== SISTEM MONITORING SUHU CPU===\n");
+    printf("Masukkan jumlah pengecekan suhu: ");
     scanf("%d", &jumlah_log); 
 
     printf("\n-----------------------------------\n");
@@ -28,11 +28,11 @@ int main() {
         total = total + suhu; 
 
         if (suhu >= 85.0) {
-            printf("   [PERINGATAN] Suhu ekstrem (%s)! Bahaya Overheat.\n", ">= 85 C"); 
+            printf("   Suhu ekstrem (%s)! Bahaya Overheat.\n", ">= 85 C"); 
         } else if (suhu >= 40.0 && suhu < 85.0) {
-            printf("   [INFO] Suhu dalam batas normal (40 C - 84.9 C).\n");
+            printf("   Suhu dalam batas normal.\n");
         } else {
-            printf("   [PERINGATAN] Suhu terlalu rendah (< 40 C)! Kurang optimal.\n");
+            printf("   Suhu terlalu rendah (< 40 C)!\n");
         }
 
         i++; 
